@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Pro Per Probate FAQ</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      line-height: 1.6;
+      background: #fafafa;
+    }
+    h1 {
+      font-size: 1.5rem;
+      margin-bottom: 10px;
+    }
+    h2 {
+      margin-top: 30px;
+      font-size: 1.2rem;
+      color: #333;
+    }
+    details {
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 12px 16px;
+      margin: 12px 0;
+      background: #fff;
+    }
+    summary {
+      font-weight: 600;
+      cursor: pointer;
+      outline: none;
+    }
+    details[open] {
+      background: #f0f0f0;
+    }
+    small {
+      display: block;
+      margin-top: 25px;
+      color: #666;
+      font-size: 0.85rem;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Frequently Asked Questions</h1>
+  <p>These FAQs cover common questions about this course. They are for educational purposes only, not legal advice. For guidance about your specific situation, please consult a licensed probate attorney.</p>
+
+  <!-- About the Course -->
+  <h2>About the Course</h2>
+  <details>
+    <summary>Who is this course for?</summary>
+    <p>This course is for individuals considering probate litigation in California who want to understand the basics before hiring an attorney or representing themselves in court.</p>
+  </details>
+  <details>
+    <summary>What will I learn?</summary>
+    <p>You’ll learn foundational concepts like the role of probate court, standing, the statute of limitations, and how to assess whether litigation may apply to your situation.</p>
+  </details>
+
+  <!-- Scope & Limitations -->
+  <h2>Scope & Limitations</h2>
+  <details>
+    <summary>Is this legal advice?</summary>
+    <p>No. This course is for educational purposes only. It cannot replace the advice of a licensed attorney.</p>
+  </details>
+  <details>
+    <summary>Will this course guarantee I win my case?</summary>
+    <p>No. Court outcomes depend on facts, evidence, and the law. This course is designed to help you understand the process and make informed decisions.</p>
+  </details>
+  <details>
+    <summary>Can you review my personal documents?</summary>
+    <p>No. I cannot review or provide feedback on personal legal documents.</p>
+  </details>
+
+  <!-- Technical / Logistics -->
+  <h2>Technical / Logistics</h2>
+  <details>
+    <summary>How long do I have access to this course?</summary>
+    <p>You will have ongoing access to this free Foundations course. Future paid courses may have their own access terms listed at checkout.</p>
+  </details>
+  <details>
+    <summary>Can I take the course at my own pace?</summary>
+    <p>Yes. The course is self-paced and available online 24/7.</p>
+  </details>
+  <details>
+    <summary>What if I have trouble logging in or videos won’t play?</summary>
+    <p>Please try refreshing your browser, using a different browser (Chrome or Safari recommended), or checking your internet connection. For platform issues, contact FreshLearn support.</p>
+  </details>
+  <details>
+    <summary>Can you fix my computer, printer, or internet?</summary>
+    <p>No. I can’t provide tech support for your personal devices. For those issues, please reach out to a qualified technician.</p>
+  </details>
+
+  <!-- Legal / Education Clarification -->
+  <h2>Legal / Education Clarification</h2>
+  <details>
+    <summary>What’s the difference between probate and probate litigation?</summary>
+    <p>General probate handles administration of estates (distributing assets, paying debts). Probate litigation involves legal disputes—such as contesting a trust or will—brought before the court for resolution.</p>
+  </details>
+  <details>
+    <summary>What happens if I miss the statute of limitations deadline?</summary>
+    <p>Generally, the court will not allow you to file after the deadline. This is why learning and acting within the statute of limitations is critical. For specifics, consult an attorney.</p>
+  </details>
+  <details>
+    <summary>Why is “standing” important?</summary>
+    <p>Standing determines who has the legal right to bring a case. If you don’t meet the requirements, the court will dismiss your petition.</p>
+  </details>
+
+  <small><strong>Disclaimer:</strong> This content is provided for educational purposes only. It is not legal advice. For advice regarding your specific situation, please consult a licensed probate attorney.</small>
+
+</body>
+</html>
